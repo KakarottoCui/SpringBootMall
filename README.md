@@ -1,7 +1,7 @@
 # SpringBootMall
 基于SpringBoot框架的商城系统
 
-演示视频链接：https://live.csdn.net/v/184574
+演示视频链接：https://www.bilibili.com/video/BV1pq4y1374P/
 
 功能介绍：
 
